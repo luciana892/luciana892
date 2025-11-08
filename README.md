@@ -39,10 +39,9 @@
 ### 📫 Onde me encontrar
 [![LinkedIn](https://www.linkedin.com/in/lucianavaleriana
 
-[![Email](lucianavaleriana@45gmail.com)
+
 
 ---
-
 > 💬 *“Qualidade não é o fim da entrega — é o que a torna possível.”*
 
 -->
