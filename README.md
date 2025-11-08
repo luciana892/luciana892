@@ -4,7 +4,7 @@
 
 ## 🧩 Resumo Profissional
 Profissional com mais de **10 anos de experiência em Gestão da Qualidade**, em sólida transição para **Qualidade de Software (QA)**.  
-Experiência prática em **testes manuais, exploratórios e funcionais**, com participação em **projetos reais** nas áreas de **saúde** e **inclusão digital**.  
+Experiência prática em **testes manuais, exploratórios e funcionais**, com participação em **projetos reais** nas áreas de **saúde** , **inclusão digital** **financeiro**.  
 
 **Destaques:**
 - Planejamento, execução e documentação de testes funcionais e regressivos.
@@ -101,21 +101,8 @@ Em busca de **oportunidade em QA** para consolidar a carreira técnica e contrib
 
 > 💬 *"Qualidade não é o fim da entrega — é o que garante o sucesso dela."*
 
-<p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@larissakich">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+
+ </a> 
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
