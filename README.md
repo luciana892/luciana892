@@ -6,7 +6,8 @@ sempre com olhar crítico para **usabilidade, performance e experiência do usu�
 
 📚 Invisto constantemente em **mentorias e cursos de especialização em QA**  
 🤖 Participo de **projetos sociais**, contribuindo com o desenvolvimento e testes de aplicações reais  
-🕒 Trabalho com metodologias ágeis como **Scrum** e **Kanban**
+🕒 Trabalho com metodologias ágeis como **Scrum** e **Kanban**   
+
 🎯 Participei do ** Programa Trainee em Quality Assurance SysMap** **com aplicação de projetos reais site financeiros**
 
 ✨ Busco oportunidades para crescer como QA, aplicando técnicas modernas e colaborando em times que valorizem a **cultura de qualidade**.
@@ -39,11 +40,6 @@ sempre com olhar crítico para **usabilidade, performance e experiência do usu�
 ## 🌍 Idiomas
 - 🇧🇷 **Português:** Nativo  
 - 🇺🇸 **Inglês:** Básico  
----
-## 🧭 Resumo Final
-Profissional com **mindset de melhoria contínua**, foco em **qualidade centrada no usuário** e fundamentos sólidos em **processos de teste baseados no ISTQB e ISO 29119**.  
-Em busca de **oportunidade em QA** para consolidar a carreira técnica e contribuir com a entrega de **produtos digitais de alto impacto**.  
-
 ---
 
 > 💬 *"Qualidade não é o fim da entrega — é o que garante o sucesso dela."*
