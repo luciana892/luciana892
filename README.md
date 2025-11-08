@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Luciana 
+#👩🏾‍💻 **Luciana Valeriana**
 
-**`Qualidade de Software`**
+**`Qualidade de Software`**🐞
 
 ## 🧩 Resumo Profissional
 Profissional com mais de **10 anos de experiência em Gestão da Qualidade**, em sólida transição para **Qualidade de Software (QA)**.  
