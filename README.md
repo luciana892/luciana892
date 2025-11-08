@@ -1,69 +1,16 @@
-#👩🏾‍💻 **Luciana Valeriana**
+#👩🏾‍💻 Sou **Luciana Valeriana** , profissional apaixonada por **qualidade de software** e **melhoria contínua**.  
+Tenho formação ** superior em Enegenharia de software**, com foco em **QA**.  
 
-**`Qualidade de Software`**🐞
+Atuei em projetos que envolvem **testes manuais e automatizados**, abrangendo **back-end e front-end**,  
+sempre com olhar crítico para **usabilidade, performance e experiência do usuário**.  
 
-## 🧩 Resumo Profissional
-Profissional com mais de **10 anos de experiência em Gestão da Qualidade**, em sólida transição para **Qualidade de Software (QA)**.  
-Experiência prática em **testes manuais, exploratórios e funcionais**, com participação em **projetos reais** nas áreas de **saúde** , **inclusão digital** **financeiro**.  
+📚 Invisto constantemente em **mentorias e cursos de especialização em QA**  
+🤖 Participo de **projetos sociais**, contribuindo com o desenvolvimento e testes de aplicações reais  
+🕒 Trabalho com metodologias ágeis como **Scrum** e **Kanban**
+🎯 Participei do ** Programa Trainee em Quality Assurance SysMap** **com aplicação de projetos reais site financeiros**
 
-**Destaques:**
-- Planejamento, execução e documentação de testes funcionais e regressivos.
-- **Analise de Requistos**;**Checklist Carter**;**Mapa de Cobertura**;**Mapa de Risco**;**Matriz GAP**;**Matriz de Massa de testes** e **Metricas De Projetos**.
-- Participação em squads ágeis com Devs, PMs e Designers.  
-- Reporte e rastreamento de bugs com **Jira**, **Azure DevOps** e **TestRail**.  
-- Aplicação de técnicas de teste: **partição de equivalência**, **valor limite** e **tabela de decisão**.  
-- Foco em **usabilidade, acessibilidade** e **experiência do usuário**.
----
-## 💼 Experiência Profissional
+✨ Busco oportunidades para crescer como QA, aplicando técnicas modernas e colaborando em times que valorizem a **cultura de qualidade**.
 
-### **SysMap — Programa Trainee em Quality Assurance**
-📅 *01/2025 – Atual *  
-- Atuação prática em squad ágil (*Squad Debug*).  
-- Análise e validação de requisitos funcionais e não funcionais.  
-- Elaboração de planos, cenários e roteiros de teste.  
-- Criação de **dashboards e indicadores de qualidade**.  
-- Utilização de **TestRail**, **Trello** e **Miro** para gestão e evidências.  
-- Aplicação de técnicas de teste: partição de equivalência, tabela de decisão e valor limite. 
-
-### **IpêCode — QA Analyst**
-📅 *04/2025 – Atual*  
-- Automação de testes web com **Cypress (JavaScript)**.  
-- Integração de testes no **pipeline CI/CD** com GitHub Actions.  
-- Execução de testes paralelos e cache de dependências para otimização.  
-- Documentação técnica no **Confluence** e participação em cerimônias ágeis.  
----
-### **Escola Atlântico Avanti — Analista de Testes (Bootcamp QA)**
-📅 *03/2025 – 05/2025*  
-- Testes manuais e automatizados na aplicação **BugBank**.  
-- Criação e execução de casos de teste detalhados com evidências.  
-- Identificação e reporte de bug crítico em validação de e-mail.  
-- Testes automatizados com **Cypress** e documentação em relatórios técnicos.  
----
-### **Pipoca Ágil — QA Analyst**
-📅 *10/2024 – 04/2025*  
-- Testes manuais em aplicações web e **APIs RESTful (Postman)**.  
-- Consultas em **SQL Server** para validação de dados.  
-- Planejamento e execução de testes funcionais, de usabilidade e desempenho.  
-- Gestão de testes via **Azure DevOps**, aplicando **Scrum**.  
----
-### **Crowdtest — QA Manual**
-📅 *07/2024 – 04/2025*  
-- Testes funcionais e exploratórios em produtos de grandes clientes (**Serasa**, **Netshoes**, **Banco do Brasil**).  
-- Validação de **APIs com Postman** e análise de logs.  
-- Aplicação de práticas **TDD**, **BDD** e integração **CI/CD**.  
----
-### **Lacrei Saúde — QA Manual**
-📅 *01/2023 – 06/2024*  
-- Testes funcionais e exploratórios em **apps mobile (Android/iOS)**.  
-- Validação de requisitos, regras de negócio e usabilidade.  
-- Testes de integração de APIs e suporte a **squads multidisciplinares**.  
-
----
-## 🎓 Formação Acadêmica
-**Engenharia de Software – Universidade Vincit**  
-📆 *01/2025 – 12/2029 (em andamento)*  
-## Engenharia de qualidade e testes de Software- PUC
-📆 *07/2024 - 07/2025**
 ---
 ## 🧠 Cursos e Certificações
 - 🎓**Programa Trainee QA – SysMap (03/2025)**   
