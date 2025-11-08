@@ -18,7 +18,7 @@
 | **Testes Automatizados** | • Selenium • Postman/Newman |
 | **Gestão de Testes** | Jira • Qase • Zephyr • TestRail |
 | **CI/CD & Versionamento** | GitHub Actions • Jenkins • Azure DevOps • Git |
-| **Linguagens de Apoio** | Java • Python • Gherkin (BDD) |
+| **Linguagens de Apoio** | Java • Gherkin (BDD) |
 
 ---
 ### 📊 Áreas de Interesse
