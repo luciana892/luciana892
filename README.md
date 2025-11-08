@@ -1,4 +1,7 @@
-#👩🏾‍💻 Sou **Luciana Valeriana** , profissional apaixonada por **qualidade de software** e **melhoria contínua**.  
+
+#👩🏾‍💻 Sou **Luciana Valeriana** , 
+
+Profissional apaixonada por **qualidade de software** e **melhoria contínua**.  
 Tenho formação ** superior em Enegenharia de software**, com foco em **QA**.  
 
 Atuei em projetos que envolvem **testes manuais e automatizados**, abrangendo **back-end e front-end**,  
