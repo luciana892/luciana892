@@ -60,11 +60,11 @@ Experiência prática em **testes manuais, exploratórios e funcionais**, com pa
 ## 🎓 Formação Acadêmica
 **Engenharia de Software – Universidade Vincit**  
 📆 *01/2025 – 12/2029 (em andamento)*  
-
+## Engenharia de qualidade e testes de Software- PUC
+📆 *07/2024 - 07/2025**
 ---
 ## 🧠 Cursos e Certificações
-- 🎓 **Bootcamp QA – Atlântico Avanti (03/2025)**  
-- 🎓 **Programa Trainee QA – SysMap (03/2025)**  
+- 🎓**Programa Trainee QA – SysMap (03/2025)**   
 - 🧩 Fundamentos de Teste – 4ALL Testes  
 - 🧩 Qualidade de Software – Code Like a Tester  
 - 🧩 QA para Times Ágeis – Code Like a Tester  
@@ -80,7 +80,7 @@ Experiência prática em **testes manuais, exploratórios e funcionais**, com pa
 
 | Categoria | Tecnologias / Ferramentas |
 |------------|---------------------------|
-| **Testes** | Manuais • Exploratórios • Funcionais • Mobile • API |
+| **Testes** | Manuais • Exploratórios • Funcionais  • API |
 | **Ferramentas** | Jira • Azure DevOps • TestRail • Trello • Miro • Qase |
 | **Automação** | • Selenium • Postman |
 | **Linguagens** | Java • SQL • 
