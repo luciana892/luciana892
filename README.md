@@ -5,12 +5,12 @@ Profissional com mais de **10 anos de experiência em Gestão da Qualidade**, em
 Experiência prática em **testes manuais, exploratórios e funcionais**, com participação em **projetos reais** nas áreas de **saúde** e **inclusão digital**.  
 
 **Destaques:**
-- Planejamento, execução e documentação de testes funcionais e regressivos.  
+- Planejamento, execução e documentação de testes funcionais e regressivos.
+- **Analise de Requistos**;**Checklist Carter**;**Mapa de Cobertura**;**Mapa de Risco**;**Matriz GAP**;**Matriz de Massa de testes** e **Metricas De Projetos**.
 - Participação em squads ágeis com Devs, PMs e Designers.  
 - Reporte e rastreamento de bugs com **Jira**, **Azure DevOps** e **TestRail**.  
 - Aplicação de técnicas de teste: **partição de equivalência**, **valor limite** e **tabela de decisão**.  
-- Foco em **usabilidade, acessibilidade** e **experiência do usuário**.  
-
+- Foco em **usabilidade, acessibilidade** e **experiência do usuário**.
 ---
 ## 💼 Experiência Profissional
 
