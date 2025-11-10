@@ -25,14 +25,15 @@ Atuo com foco em **Qualidade de Software**, unindo visão técnica e humana para
 Mentorias e cursos complementares na área de **Qualidade de Software (QA)**
 
 ### 🤝 Voluntariado
-Participação em **projetos sociais** de desenvolvimento e testes de aplicações
+Participação em **projetos reais** de desenvolvimento e testes de aplicações
+Participando ativamente em todas as etapas dos processos de testes.
 
 ### 👩🏻‍💻 Experiência Técnica
 - Testes **funcionais**
 - Cobertura de **front-end** e **back-end**
 - Testes **exploratórios** e orientados à **experiência do usuário**
-- Elaboração de **planos de teste**, **casos de testes** e **cenarios de testes** **matriz de cobertura** **matriz de massa de testes** **checklist Carter** **Report de Bug** **matriz GAP**
-- Tecnicas de Testes **tabela de decisão** **Analise de valor limite** **partição de equivalencia**
+- Elaboração de **planos de teste**, **casos de testes** e **cenarios de testes** ;**matriz de cobertura**;**matriz de massa de testes** ;**checklist Carter**; **Report de Bug** ;**matriz GAP**;
+- Tecnicas de Testes **tabela de decisão** ;**Analise de valor limite**; **partição de equivalencia**
 - BDD
 - Elaboração de **Metricas de testes**
 
