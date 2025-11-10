@@ -14,20 +14,27 @@
 />
 
 Olá, sou a Luciana Valeriana 
+Apaixonada por tecnologia, qualidade e por entregar experiências digitais que realmente façam sentido para o usuário.  
+Atuo com foco em **Qualidade de Software**, unindo visão técnica e humana para garantir produtos simples, intuitivos e funcionais.
 
-🎓 Formação: Superior em Enegnharia de Software
+### 🎓 Formação
+**Superior em Engenharia de Software**
 
-📚 Especialização: Mentorias e cursos extras na área de QA
+### 📚 Especializações
+Mentorias e cursos complementares na área de **Qualidade de Software (QA)**
 
-🤝 Voluntariado: Participação em projetos sociais de desenvolvimento e testes de aplicações
+### 🤝 Voluntariado
+Participação em **projetos sociais** de desenvolvimento e testes de aplicações
 
-👩🏻‍💻 Tenho experiência em testes manuais e automatizados, abrangendo back-end e front-end.
+### 👩🏻‍💻 Experiência Técnica
+- Testes **manuais** 
+- Cobertura de **front-end** e **back-end**
+- Testes **exploratórios** e orientados à **experiência do usuário**
+- Elaboração de **planos de teste**, **casos** e **relatórios**
 
-🕒 Metodologia ágil Scrum e Kanban
-
-
-
-
+### ⚙️ Metodologias
+- **Scrum** e **Kanban**
+- Cultura de qualidade e melhoria contínua com base na **ISO 9001** e **ISTQB CTFL 4.0**
 
 ---
 
