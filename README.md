@@ -28,10 +28,13 @@ Mentorias e cursos complementares na área de **Qualidade de Software (QA)**
 Participação em **projetos sociais** de desenvolvimento e testes de aplicações
 
 ### 👩🏻‍💻 Experiência Técnica
-- Testes **manuais** 
+- Testes **funcionais**
 - Cobertura de **front-end** e **back-end**
 - Testes **exploratórios** e orientados à **experiência do usuário**
-- Elaboração de **planos de teste**, **casos** e **relatórios**
+- Elaboração de **planos de teste**, **casos de testes** e **cenarios de testes** **matriz de cobertura** **matriz de massa de testes** **checklist Carter** **Report de Bug** **matriz GAP**
+- Tecnicas de Testes **tabela de decisão** **Analise de valor limite** **partição de equivalencia**
+- BDD
+- Elaboração de **Metricas de testes**
 
 ### ⚙️ Metodologias
 - **Scrum** e **Kanban**
