@@ -26,6 +26,7 @@ Mentorias e cursos complementares na área de **Qualidade de Software (QA)**
 
 ### 🤝 Voluntariado
 Participação em **projetos reais** de desenvolvimento e testes de aplicações
+
 Participando ativamente em todas as etapas dos processos de testes.
 
 ### 👩🏻‍💻 Experiência Técnica
