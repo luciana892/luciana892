@@ -14,6 +14,7 @@
 />
 
 Olá, sou a Luciana Valeriana 
+
 Apaixonada por tecnologia, qualidade e por entregar experiências digitais que realmente façam sentido para o usuário.  
 Atuo com foco em **Qualidade de Software**, unindo visão técnica e humana para garantir produtos simples, intuitivos e funcionais.
 
