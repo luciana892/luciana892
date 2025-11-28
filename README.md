@@ -22,7 +22,7 @@ Atuo com foco em **Qualidade de Software**, unindo visão técnica e humana para
 **Superior em Engenharia de Software**
 
 ### 📚 Especializações
-Engenharia de Qualidade e Testes de Software**
+**MBA Engenharia de Qualidade e Testes de Software**
 
 ### 🤝 Voluntariado
 Participação em **projetos reais** de desenvolvimento e testes de aplicações
