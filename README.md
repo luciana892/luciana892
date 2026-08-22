@@ -6,344 +6,196 @@
 
 # 👋 Olá, eu sou a Luciana Valeriana!
 
-### 🧪 Quality Assurance (QA) | Testes de Software | Acessibilidade | 
+### 🧪 QA Analyst | API Testing | Web & Mobile | Accessibility | QA Automation
 
-Sou **Analista de Quality Assurance (QA) Junior** com experiência em testes de software em aplicações **Web e Mobile**, atuando com Testes Funcionais, Exploratórios, Regressivos, Usabilidade, Regressão Visual, APIs REST e Acessibilidade Digital.
+Sou **Analista de QA** com experiência em **testes Web e Mobile**, **APIs REST**, **DevTools**, **SQL** e **Acessibilidade Digital**.
 
-Tenho experiência em ambientes ágeis com **Scrum e Kanban**, participando de diferentes etapas do processo de qualidade, desde a análise de requisitos e regras de negócio até o planejamento, execução, documentação e reporte de defeitos.
+Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regressão visual**, além de análise de requisitos, criação de cenários, execução de testes e reporte de defeitos.
 
-Também possuo conhecimento na utilização de **DevTools para inspeção, validação e investigação de aplicações Web**, utilizando recursos do navegador como apoio aos testes e à identificação de problemas.
-
-Atualmente, estou ampliando meus conhecimentos em **automação de testes com Playwright**, APIs e **CI/CD**, com foco na evolução profissional para **QA Automation Engineer**.
+🚀 Atualmente, estou aprofundando meus conhecimentos em **QA Automation com Playwright**, **API Testing** e **CI/CD**, com foco em evoluir para **QA Automation Engineer**.
 
 ---
 
-## 🚀 Sobre mim
+## 🛠️ Principais conhecimentos
 
-* 🔎 Experiência com **Quality Assurance e testes manuais**
-* 🌐 Testes em aplicações **Web e Mobile**
-* 🧪 Testes funcionais, exploratórios e de regressão
-* 🔄 Testes de validação, usabilidade e regressão visual
-* 🔌 Validação de **APIs REST**
-* 🛠️ Utilização de **DevTools** para inspeção e investigação de aplicações Web
-* 🗄️ Consultas e validações em banco de dados utilizando **SQL**
-* ♿ Testes de **acessibilidade digital baseados em WCAG**
-* 🤖 Conhecimento em automação de testes com **Playwright**
-* 📮 Testes de APIs utilizando **Postman**
-* 🐙 Versionamento utilizando **Git e GitHub**
-* ⚙️ Estudos de **CI/CD com GitHub Actions**
-* 🔄 Experiência com metodologias ágeis **Scrum e Kanban**
-* 🎯 Foco na evolução para **QA Automation Engineer**
+| Área                   | Conhecimentos                                                |
+| ---------------------- | ------------------------------------------------------------ |
+| 🧪 **Testes**          | Funcional, Exploratório, Regressão, Usabilidade, Web, Mobile |
+| 🔌 **API**             | REST, Postman, JSON, Status Code, CRUD                       |
+| 🔍 **DevTools**        | Elements, Console, Network, HTTP, Cookies, Storage           |
+| 🗄️ **Banco de Dados** | SQL                                                          |
+| 🤖 **Automação**       | **Playwright**, POM, testes automatizados                    |
+| ♿ **Acessibilidade**   | WCAG, Axe DevTools, Lighthouse, WAVE                         |
+| 🐙 **Versionamento**   | Git, GitHub                                                  |
+| ⚙️ **CI/CD**           | GitHub Actions                                               |
+| 📋 **Gestão**          | Jira, Azure DevOps, Zephyr                                   |
+| 🔄 **Metodologias**    | Scrum, Kanban                                                |
 
 ---
 
-# 🧪 Quality Assurance
+# 🚀 Projetos em Destaque
 
-Minha atuação em QA envolve diferentes estratégias e níveis de validação para contribuir com a qualidade, estabilidade e confiabilidade das aplicações.
+## 🔌 ServeRest — API Testing
 
-### Testes
+**Projeto de testes de API utilizando Postman**
 
-* Testes Funcionais
-* Testes Exploratórios
-* Testes de Regressão
-* Testes de Validação
-* Testes de Usabilidade
-* Testes de Regressão Visual
-* Testes Web
-* Testes Mobile
-* Testes de Integração
-* Testes de APIs REST
-* Testes de Acessibilidade
+### O que foi desenvolvido
 
-### Atividades de QA
+* ✅ Testes positivos e negativos
+* 🔄 Testes de **CRUD**
+* 🔐 Validação de autenticação
+* 🔢 Validação de **Status Code**
+* 📄 Validação de **JSON**
+* 📋 Validação de regras de negócio
+* 🧪 Scripts de testes em **JavaScript**
+* 🔗 Uso de variáveis para reutilização dos dados
+* 👤 Testes de Usuários
+* 📦 Testes de Produtos
+* 🛒 Testes de Carrinho
 
-* Análise de requisitos funcionais e de negócio
-* Levantamento de cenários de teste
-* Criação e execução de casos de teste
-* Planejamento de testes
-* Documentação de evidências
-* Validação de funcionalidades
-* Identificação de riscos
-* Registro e acompanhamento de defeitos
-* Reprodução e investigação de bugs
-* Testes de regressão antes de releases
-* Validação de regras de negócio
-* Participação em processos de homologação
+**Stack:** `Postman` `REST API` `JavaScript` `JSON` `HTTP`
+
+🔗 **[Ver projeto](#)**
 
 ---
 
-# 🔍 DevTools
+## 🤖 Automação Web — Playwright
 
-Possuo conhecimento na utilização das **ferramentas de desenvolvedor dos navegadores (DevTools)** como apoio ao processo de testes e investigação de aplicações Web.
+Projeto de estudos voltado à **automação de testes Web** utilizando Playwright.
 
-Utilizo os recursos do DevTools para auxiliar na identificação, análise e validação de comportamentos da aplicação.
+### Principais práticas
 
-### Validações e análises
+* 🧪 Automação de cenários
+* 🧩 Page Object Model
+* ♻️ Reutilização de componentes
+* ✅ Assertions
+* 📋 Organização de suítes
+* 🐙 Git e GitHub
+* ⚙️ Integração com CI/CD
 
-* 🔎 Inspeção de elementos HTML e componentes da interface
-* 🌐 Análise de requisições e respostas HTTP
-* 📡 Investigação de chamadas realizadas pela aplicação
-* 🐞 Análise de erros e mensagens no Console
-* 🍪 Análise de cookies e armazenamento da aplicação
-* 💾 Inspeção de dados armazenados no navegador
-* 📱 Simulação e validação em diferentes resoluções e dispositivos
-* ⚡ Apoio à investigação de problemas de carregamento e performance
-* 🔗 Análise de recursos carregados pela aplicação
-* 🧪 Investigação de comportamentos inesperados durante os testes
+**Stack:** `Playwright` `JavaScript` `Git` `GitHub Actions`
 
-O uso do DevTools complementa os testes funcionais e exploratórios, permitindo uma investigação mais aprofundada dos problemas encontrados e fornecendo **evidências técnicas para facilitar a comunicação com Desenvolvimento e Produto**.
+🔗 **[Ver projeto](#)**
 
 ---
 
-# 🔌 Testes de API
+## 🔍 Validação Web com DevTools
 
-Tenho experiência com **testes e validações de APIs REST**, utilizando principalmente o **Postman**.
+Utilização de **DevTools** como apoio aos testes funcionais e exploratórios.
 
-### Conhecimentos
+### Principais validações
 
-* Criação e execução de requisições
-* Validação de respostas
-* Verificação de status HTTP
-* Validação de dados retornados
-* Análise de requisições e respostas
-* Testes de integração
-* Investigação de comportamentos inesperados
-* Validação de regras de negócio através de APIs
+* 🔎 Inspeção de elementos
+* 🌐 Network e requisições HTTP
+* 🐞 Console e investigação de erros
+* 🍪 Cookies
+* 💾 Local Storage / Session Storage
+* 📱 Responsividade
+* ⚡ Análise de carregamento
+* 🔗 Investigação de recursos da aplicação
 
-Também venho desenvolvendo projetos de estudo voltados para **automação e validação de APIs**.
+**Stack:** `Chrome DevTools` `Edge DevTools` `HTTP` `Web Testing`
 
----
-
-# 🗄️ SQL
-
-Possuo conhecimento em consultas SQL para apoiar a validação dos dados gerados e manipulados pelas aplicações.
-
-Utilizo consultas em banco de dados como complemento aos testes para:
-
-* 🔎 Validar informações persistidas
-* 🔄 Comparar dados antes e depois de determinadas ações
-* 🧪 Investigar inconsistências
-* ✅ Confirmar resultados esperados
-* 🔗 Apoiar testes de integração
+🔗 **[Ver projeto](#)**
 
 ---
 
-# ♿ Acessibilidade Digital
+## ♿ Acessibilidade Digital
 
-A acessibilidade digital é uma das áreas presentes na minha atuação profissional.
+Experiência com testes de acessibilidade baseados em **WCAG**.
 
-Tenho experiência com validações baseadas nas diretrizes **WCAG**, utilizando ferramentas como:
+### Ferramentas
 
-* **Axe DevTools**
-* **Lighthouse**
-* **WAVE**
+`Axe DevTools` · `Lighthouse` · `WAVE`
 
-Entre as validações realizadas:
+### Validações
 
 * ⌨️ Navegação por teclado
 * 🎨 Contraste
 * 🧭 Navegação e usabilidade
-* 🌐 Estrutura e comportamento da aplicação
-* 📱 Experiência em diferentes dispositivos
-* ♿ Boas práticas de acessibilidade e inclusão
+* 🌐 Estrutura da página
+* 📱 Diferentes dispositivos
 
-Também atuo voluntariamente no **Movimento Web para Todos**, contribuindo para iniciativas relacionadas à acessibilidade digital.
-
----
-
-# 🤖 Automação de Testes
-
-Estou em processo de evolução e aprofundamento na área de **QA Automation**.
-
-Tenho desenvolvido projetos de estudo utilizando **PLaywright**, aplicando conceitos e boas práticas de automação.
-
-### Conhecimentos em desenvolvimento
-
-* Playwright
-* Automação de testes Web
-* Page Object Model (POM)
-* Comandos reutilizáveis
-* Organização de suítes de testes
-* Automação de cenários
-* Git e GitHub
-* GitHub Actions
-* Conceitos de CI/CD
-
-Meu objetivo é ampliar continuamente minha experiência prática em automação e integrar diferentes conhecimentos de QA em projetos reais.
+Também atuo como **voluntária no Movimento Web para Todos**.
 
 ---
 
-# 🛠️ Tecnologias e Ferramentas
+# 💼 Experiência
 
-### 🔬 Testes
+### BCR.CX — Quality Assurance
 
-![Functional Testing](https://img.shields.io/badge/Functional%20Testing-QA-blue)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-QA-blue)
-![Regression Testing](https://img.shields.io/badge/Regression%20Testing-QA-blue)
-![Web Testing](https://img.shields.io/badge/Web%20Testing-QA-blue)
-![Mobile Testing](https://img.shields.io/badge/Mobile%20Testing-QA-blue)
-![API Testing](https://img.shields.io/badge/API%20Testing-REST-orange)
+**Dez/2025 – Atual**
 
-### 🤖 Automação
+Testes Web e Mobile, testes funcionais, exploratórios, regressivos, usabilidade, regressão visual, chatbots, acessibilidade, análise de requisitos e acompanhamento de defeitos.
 
-![Playwright](https://img.shields.io/badge/Cypress-Automation-17202C?logo=cypress)
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman)
+### Movimento Web para Todos — Voluntária
 
-### 🔍 DevTools
+**Nov/2025 – Atual**
 
-![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-Validation-4285F4?logo=googlechrome)
-![Edge DevTools](https://img.shields.io/badge/Edge%20DevTools-Validation-0078D7?logo=microsoftedge)
+Atuação com **acessibilidade digital e WCAG**.
 
-### ♿ Acessibilidade
+### IpêCode — Analista de QA
 
-![Axe DevTools](https://img.shields.io/badge/Axe%20DevTools-Accessibility-6E56CF)
-![Lighthouse](https://img.shields.io/badge/Lighthouse-Accessibility-F5A623?logo=lighthouse)
-![WAVE](https://img.shields.io/badge/WAVE-Accessibility-4CAF50)
+**Jan/2025 – Dez/2025**
 
-### 🗄️ Banco de Dados
+Testes funcionais e exploratórios, casos de teste e atuação em Scrum.
 
-![SQL](https://img.shields.io/badge/SQL-Database-336791)
+### Crowdtest — Analista de QA
 
-### 🐙 Versionamento
+**Jan/2024 – Jan/2025**
 
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-181717?logo=github)
+Testes Web, acessibilidade, **APIs REST com Postman** e **SQL**.
 
-### 📋 Gestão e Qualidade
+### Lacrei Saúde — Analista de QA
 
-![Jira](https://img.shields.io/badge/Jira-Management-0052CC?logo=jira)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-DevOps-0078D7?logo=azuredevops)
-![Zephyr](https://img.shields.io/badge/Zephyr-Test%20Management-6B4FBB)
+**Jan/2023 – Jan/2024**
 
-### 🔄 Metodologias
-
-* Scrum
-* Kanban
-* Agile
+Testes funcionais e exploratórios em **Android e iOS**, APIs REST e acompanhamento de bugs.
 
 ---
 
-# 📂 Projetos
+# 🎓 Formação
 
-## 🔌 Testes de API com Postman
+🎓 **MBA — Engenharia de Qualidade e Testes de Software** — PUC Minas
 
-Projeto voltado para testes e validações de APIs REST utilizando Postman.
+🎓 **Bacharelado em Engenharia de Software** — em andamento
 
-### Validações
-
-* Requisições
-* Respostas
-* Status HTTP
-* Dados retornados
-* Regras de validação
-* Cenários positivos e negativos
-
-## 🔍 Validação Web com DevTools
-
-Projeto voltado para demonstrar conhecimentos na utilização de DevTools durante o processo de QA.
-
-### Exemplos de validação
-
-* Inspeção de elementos
-* Console
-* Network
-* Requisições HTTP
-* Cookies
-* Local Storage
-* Session Storage
-* Responsividade
-* Investigação de erros
-* Análise de recursos
-
-## ♿ Testes de Acessibilidade
-
-Projetos e estudos relacionados à validação de acessibilidade digital utilizando ferramentas como Axe DevTools, Lighthouse e WAVE.
-
-### Foco
-
-* WCAG
-* Navegação por teclado
-* Contraste
-* Estrutura da página
-* Usabilidade
-* Inclusão digital
-
-# 💼 Experiência Profissional
-
-## BCR.CX — Quality Assurance (QA)
-
-**Dezembro/2025 – Atual | São Paulo – SP**
-
-Atuação com testes manuais funcionais, exploratórios, regressivos, de validação, usabilidade e regressão visual em aplicações Web e Mobile.
-
-Também atuo na validação de chatbots, análise de requisitos, elaboração de cenários e casos de teste, documentação de evidências, identificação e acompanhamento de defeitos, testes de acessibilidade e participação em cerimônias Scrum.
-
----
-
-## Movimento Web para Todos — Voluntária em Acessibilidade Digital
-
-**Novembro/2025 – Atual | Brasil**
-
-Atuação voluntária promovendo acessibilidade digital e inclusão na Web, realizando validações baseadas em WCAG com apoio de ferramentas como Axe DevTools, Lighthouse e WAVE.
-
----
-
-# 🎓 Formação Acadêmica
-
-🎓 **MBA — Engenharia de Qualidade e Testes de Software**
-PUC Minas
-
-🎓 **Bacharelado em Engenharia de Software — em andamento**
-Faculdade Facint
-
-🎓 **Tecnólogo em Gestão da Qualidade**
-Universidade Paulista
+🎓 **Tecnólogo em Gestão da Qualidade** — Universidade Paulista
 
 ---
 
 # 📜 Certificações
 
+* **CTFL**
 * Bootcamp Quality Assurance
 * Fundamentos em Qualidade de Software
 * Qualidade de Software
-* CTFL
 
 ---
 
-# 🌎 Idiomas
-
-🇧🇷 **Português** — Nativo
-
-🇺🇸 **Inglês** — Intermediário
-Limited Working Proficiency
-
----
-
-# 📊 Atualmente estudando
+# 📚 Atualmente estudando
 
 ```text
 QA Automation
-      │
-      ├── Playwright
-      ├── SQL
-      ├── Postman
-      ├── Git & GitHub
-      ├── GitHub Actions
-      ├── CI/CD
-      └── Boas práticas de automação
+│
+├── Playwright
+├── API Testing
+├── Postman
+├── SQL
+├── Git & GitHub
+├── GitHub Actions
+└── CI/CD
 ```
 
 ---
 
-# 🎯 Objetivo Profissional
+# 🎯 Meu objetivo
 
-Meu objetivo é continuar evoluindo tecnicamente na área de **Quality Assurance**, ampliando minha experiência em automação, integração contínua e práticas modernas de engenharia de qualidade.
-
-Busco oportunidades em que possa unir minha experiência com **testes manuais, APIs, SQL, DevTools e acessibilidade** ao desenvolvimento de competências cada vez mais sólidas em **automação de testes**.
+Evoluir como **QA Automation Engineer**, unindo minha experiência em **testes manuais, API Testing, DevTools, SQL e acessibilidade** com conhecimentos cada vez mais sólidos em **automação de testes e CI/CD**.
 
 ---
 
-# 📫 Vamos nos conectar?
+# 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciana%20Valeriana-0A66C2?logo=linkedin)](https://linkedin.com/in/lucianavaleriana)
 
@@ -353,12 +205,5 @@ Busco oportunidades em que possa unir minha experiência com **testes manuais, A
 
 ---
 
-## 💡 Obrigada pela visita!
-
-> **Qualidade não é apenas encontrar bugs. É contribuir para construir produtos melhores, mais confiáveis e acessíveis.**
-
-⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução na área de **QA e Automação de Testes**.
-
-
-
+⭐ **Obrigada pela visita! Explore meus projetos e acompanhe minha evolução em QA e Automação de Testes.**
 
