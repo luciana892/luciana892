@@ -6,7 +6,7 @@
 
 # 👋 Olá, eu sou a Luciana Valeriana!
 
-### 🧪 QA Analyst | API Testing | Web & Mobile | Accessibility | QA Automation
+### 🧪 QA Analyst | API Testing | Web & Mobile 
 
 Sou **Analista de QA** com experiência em **testes Web e Mobile**, **APIs REST**, **DevTools**, **SQL** e **Acessibilidade Digital**.
 
