@@ -12,7 +12,7 @@ Sou **Analista de Quality Assurance (QA) Junior** com experiência em testes de 
 
 Tenho experiência em ambientes ágeis utilizando **Scrum e Kanban**, participando desde a análise de requisitos e elaboração de cenários de teste até a execução, documentação, reporte de defeitos e validação das entregas.
 
-Atualmente, estou direcionando minha evolução profissional para **automação de testes**, aprofundando meus conhecimentos em **Cypress, APIs, Git/GitHub e CI/CD**.
+Atualmente, estou direcionando minha evolução profissional para **automação de testes**, aprofundando meus conhecimentos em **Playwright, APIs, Git/GitHub e CI/CD**.
 
 ---
 
