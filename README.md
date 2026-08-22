@@ -81,7 +81,6 @@ Atualmente, estou direcionando minha evolução profissional para **automação 
 * Testes de regressão visual
 * Testes Web e Mobile
 * Testes de APIs REST
-* Testes de integração
 * Testes de acessibilidade
 * Análise de requisitos
 * Elaboração de cenários e casos de teste
@@ -174,7 +173,7 @@ Estudos voltados para integração contínua e execução automatizada de testes
 
 ## 💼 Experiência
 
-### BCR.CX — Quality Assurance (QA)
+### BCR.CX — Quality Assurance (QA)-Junior
 
 **Dezembro/2025 – Atual**
 
@@ -187,26 +186,6 @@ Também atuo com validação de chatbots, análise de requisitos, elaboração d
 **Novembro/2025 – Atual**
 
 Atuação voluntária com acessibilidade digital, realizando validações baseadas em WCAG utilizando Axe DevTools, Lighthouse e WAVE.
-
-### IpêCode — Analista de QA
-
-**Janeiro/2025 – Dezembro/2025**
-
-Planejamento e execução de testes funcionais e exploratórios, criação e manutenção de casos de teste, documentação de cenários e colaboração com equipes multidisciplinares em ambiente Scrum.
-
-### Crowdtest — Analista de QA
-
-**Janeiro/2024 – Janeiro/2025**
-
-Atuação com testes funcionais, exploratórios, usabilidade e acessibilidade, além de validação de APIs REST com Postman, consultas SQL e acompanhamento de defeitos.
-
-### Lacrei Saúde — Analista de QA
-
-**Janeiro/2023 – Janeiro/2024**
-
-Experiência com testes funcionais e exploratórios em aplicações mobile Android e iOS, planejamento de casos de teste, testes de integração via APIs REST e acompanhamento de bugs.
-
----
 
 ## 🎓 Formação
 
