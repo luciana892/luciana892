@@ -6,9 +6,9 @@
 
 # 👋 Olá, eu sou a Luciana Valeriana!
 
-### 🧪 Quality Assurance (QA) | Testes de Software | Acessibilidade | QA Automation
+### 🧪 Quality Assurance (QA) | Testes de Software | Acessibilidade | 
 
-Sou **Analista de Quality Assurance (QA)** com experiência em testes de software em aplicações **Web e Mobile**, atuando com Testes Funcionais, Exploratórios, Regressivos, Usabilidade, Regressão Visual, APIs REST e Acessibilidade Digital.
+Sou **Analista de Quality Assurance (QA) Junior** com experiência em testes de software em aplicações **Web e Mobile**, atuando com Testes Funcionais, Exploratórios, Regressivos, Usabilidade, Regressão Visual, APIs REST e Acessibilidade Digital.
 
 Tenho experiência em ambientes ágeis com **Scrum e Kanban**, participando de diferentes etapas do processo de qualidade, desde a análise de requisitos e regras de negócio até o planejamento, execução, documentação e reporte de defeitos.
 
