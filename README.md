@@ -75,8 +75,6 @@ Projeto de estudos voltado à **automação de testes Web** utilizando Playwrigh
 
 **Stack:** `Playwright` `JavaScript` `Git` `GitHub Actions`
 
-🔗 **[Ver projeto](#)**
-
 ---
 
 ## 🔍 Validação Web com DevTools
@@ -95,8 +93,6 @@ Utilização de **DevTools** como apoio aos testes funcionais e exploratórios.
 * 🔗 Investigação de recursos da aplicação
 
 **Stack:** `Chrome DevTools` `Edge DevTools` `HTTP` `Web Testing`
-
-🔗 **[Ver projeto](#)**
 
 ---
 
@@ -122,7 +118,7 @@ Também atuo como **voluntária no Movimento Web para Todos**.
 
 # 💼 Experiência
 
-### BCR.CX — Quality Assurance
+### BCR.CX — Quality Assurance- Junior
 
 **Dez/2025 – Atual**
 
@@ -134,25 +130,6 @@ Testes Web e Mobile, testes funcionais, exploratórios, regressivos, usabilidade
 
 Atuação com **acessibilidade digital e WCAG**.
 
-### IpêCode — Analista de QA
-
-**Jan/2025 – Dez/2025**
-
-Testes funcionais e exploratórios, casos de teste e atuação em Scrum.
-
-### Crowdtest — Analista de QA
-
-**Jan/2024 – Jan/2025**
-
-Testes Web, acessibilidade, **APIs REST com Postman** e **SQL**.
-
-### Lacrei Saúde — Analista de QA
-
-**Jan/2023 – Jan/2024**
-
-Testes funcionais e exploratórios em **Android e iOS**, APIs REST e acompanhamento de bugs.
-
----
 
 # 🎓 Formação
 
