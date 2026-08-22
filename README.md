@@ -155,11 +155,11 @@ Também atuo voluntariamente no **Movimento Web para Todos**, contribuindo para 
 
 Estou em processo de evolução e aprofundamento na área de **QA Automation**.
 
-Tenho desenvolvido projetos de estudo utilizando **Cypress**, aplicando conceitos e boas práticas de automação.
+Tenho desenvolvido projetos de estudo utilizando **PLaywright**, aplicando conceitos e boas práticas de automação.
 
 ### Conhecimentos em desenvolvimento
 
-* Cypress
+* Playwright
 * Automação de testes Web
 * Page Object Model (POM)
 * Comandos reutilizáveis
@@ -186,7 +186,7 @@ Meu objetivo é ampliar continuamente minha experiência prática em automação
 
 ### 🤖 Automação
 
-![Cypress](https://img.shields.io/badge/Cypress-Automation-17202C?logo=cypress)
+![Playwright](https://img.shields.io/badge/Cypress-Automation-17202C?logo=cypress)
 ![Postman](https://img.shields.io/badge/Postman-API%20Testing-FF6C37?logo=postman)
 
 ### 🔍 DevTools
@@ -237,10 +237,6 @@ Projeto voltado para testes e validações de APIs REST utilizando Postman.
 * Dados retornados
 * Regras de validação
 * Cenários positivos e negativos
-
-🔗 **[Ver projeto no GitHub](#)**
-
----
 
 ## 🔍 Validação Web com DevTools
 
