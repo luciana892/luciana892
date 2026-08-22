@@ -8,7 +8,7 @@
 
 ### QA Analyst | Quality Assurance | Em evolução para QA Automation Engineer 🚀
 
-Sou **Analista de Quality Assurance (QA)** com experiência em testes de software, atuando principalmente com **testes funcionais, exploratórios, regressivos, web, mobile, APIs REST e acessibilidade digital**.
+Sou **Analista de Quality Assurance (QA) Junior** com experiência em testes de software, atuando principalmente com **testes funcionais, exploratórios, regressivos, web, mobile, APIs REST e acessibilidade digital**.
 
 Tenho experiência em ambientes ágeis utilizando **Scrum e Kanban**, participando desde a análise de requisitos e elaboração de cenários de teste até a execução, documentação, reporte de defeitos e validação das entregas.
 
