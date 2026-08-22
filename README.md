@@ -70,6 +70,32 @@ Atualmente, estou direcionando minha evolução profissional para **automação 
 ![SQL](https://img.shields.io/badge/SQL-Database-336791?logo=postgresql)
 
 ---
+## 🔍 Validação e DevTools
+
+Tenho conhecimento na utilização de **DevTools para validação e investigação de aplicações Web**, utilizando os recursos disponíveis no navegador para apoiar a análise de qualidade e identificação de problemas.
+
+Entre as principais validações realizadas:
+
+* 🔎 Inspeção de elementos e componentes da interface
+* 🌐 Análise de requisições e respostas HTTP
+* 📡 Validação de chamadas de API e recursos de rede
+* 🐞 Investigação de erros no **Console**
+* 🍪 Análise de cookies, armazenamento e dados da aplicação
+* 📱 Validação de comportamento em diferentes resoluções e dispositivos
+* ⚡ Apoio na investigação de problemas de performance
+* ♿ Apoio na análise de acessibilidade e comportamento da aplicação
+* 🧪 Utilização das ferramentas do navegador como suporte aos testes funcionais e exploratórios
+
+### 🛠️ Ferramentas
+
+* Chrome DevTools
+* Edge DevTools
+* Axe DevTools
+* Lighthouse
+* WAVE
+* Postman
+
+Utilizo DevTools como parte do processo de **investigação, validação e diagnóstico de problemas**, complementando a execução dos testes e facilitando a comunicação de evidências para as equipes de Desenvolvimento e Produto.
 
 ## 📌 Principais conhecimentos em QA
 
