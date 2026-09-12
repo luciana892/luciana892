@@ -143,54 +143,6 @@ Universidade Paulista — UNIP
 
 ---
 
-# 📚 Atualmente estudando
-
-```text
-QA Analyst
-    │
-    ├── API Testing
-    │     ├── Postman
-    │     └── Newman
-    │
-    ├── Automation
-    │     └── Playwright
-    │
-    ├── Data
-    │     └── SQL
-    │
-    ├── Versioning
-    │     └── Git & GitHub
-    │
-    └── CI/CD
-          └── GitHub Actions
-```
-
----
-
-# 🎯 Minha evolução
-
-```text
-QA Analyst
-    ↓
-API Testing
-    ↓
-Automation
-    ↓
-Playwright
-    ↓
-CI/CD
-    ↓
-QA Automation Engineer 🚀
-```
-
-Meu objetivo é evoluir como **QA Automation Engineer**, combinando minha experiência em testes manuais com **API Testing, automação, DevTools, SQL e CI/CD**.
-
-Acredito que automação não substitui uma boa estratégia de testes.
-
-**Ela potencializa o trabalho de QA**, permitindo que o profissional concentre mais tempo em análise, investigação, riscos e qualidade do produto.
-
----
-
 # 🛠️ Tecnologias
 
 <p align="left">
@@ -201,6 +153,48 @@ Acredito que automação não substitui uma boa estratégia de testes.
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColo
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+
+</p>
+
+---
+
+# 📊 GitHub
+
+<p align="left">
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luciana892&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana892&layout=compact&theme=tokyonight&langs_count=8"/>
+
+</p>
+
+---
+
+# 📫 Vamos nos conectar?
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lucianavaleriana">
+<img src="https://img.shields.io/badge/LinkedIn-Luciana%20Valeriana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/luciana892">
+<img src="https://img.shields.io/badge/GitHub-luciana892-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:lucianavaleriana45@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+⭐ **Obrigada pela visita!**
+
+Se você chegou até aqui, fique à vontade para explorar meus projetos e acompanhar meu trabalho em **Qualidade de Software, API Testing e Automação de Testes**. 🚀
+
 
 
