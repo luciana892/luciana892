@@ -1,19 +1,10 @@
 <div align="center">
  
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9+"
-      alt="Typing SVG"
-    >
-  </a>
-</div>
-
 # 👩🏻‍💻 Luciana Valeriana
 
 **`QA Analyst | API Testing | Web & Mobile | QA Automation`**
 
-Sou **Analista de QA** com experiência em **testes Web e Mobile**, **APIs REST**, **DevTools**, **SQL** e **Acessibilidade Digital**.
+Olá! Sou **Luciana Valeriana**, Analista de QA com experiência em **testes Web e Mobile**, **APIs REST**, **DevTools**, **SQL** e **Acessibilidade Digital**.
 
 Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regressão visual**, além de análise de requisitos, criação de cenários, execução de testes e reporte de defeitos.
 
@@ -21,7 +12,7 @@ Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regress
 
 ---
 
-## 🛠️ Principais conhecimentos
+## 🧪 Principais conhecimentos
 
 | Área                   | Conhecimentos                                                |
 | ---------------------- | ------------------------------------------------------------ |
@@ -29,7 +20,7 @@ Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regress
 | 🔌 **API**             | REST, Postman, JSON, Status Code, CRUD                       |
 | 🔍 **DevTools**        | Elements, Console, Network, HTTP, Cookies, Storage           |
 | 🗄️ **Banco de Dados** | SQL                                                          |
-| 🤖 **Automação**       | **Playwright**, POM, testes automatizados                    |
+| 🤖 **Automação**       | Playwright, POM, testes automatizados                        |
 | ♿ **Acessibilidade**   | WCAG, Axe DevTools, Lighthouse, WAVE                         |
 | 🐙 **Versionamento**   | Git, GitHub                                                  |
 | ⚙️ **CI/CD**           | GitHub Actions                                               |
@@ -198,25 +189,20 @@ Evoluir como **QA Automation Engineer**, unindo minha experiência em **testes m
 
 # 📊 GitHub Stats
 
-<p>
+<p align="left">
   <img
-    align="left"
     alt="GitHub Stats"
     height="180"
-    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=luciana892&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 
 <img
- align="left"
- alt="Tecnologias"
+ alt="Tecnologias mais utilizadas"
  height="180"
  src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana892&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
 />
 
 </p>
-
-<br clear="both"/>
 
 ---
 
