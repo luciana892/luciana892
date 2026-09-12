@@ -1,79 +1,14 @@
 <div align="center">
- <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG">
-  </a>
-</div>
-
-# 👩🏻‍💻 Luciana Valeriana
-
-**`QA Analyst | API Testing | Web & Mobile | QA Automation`**
-
-Olá! Sou **Luciana Valeriana**, Analista de QA com experiência em **testes Web e Mobile, APIs REST, DevTools, SQL e Acessibilidade Digital**.
-
-Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regressão visual**, além de análise de requisitos, criação de cenários e casos de teste, execução, investigação e acompanhamento de defeitos.
-
-🚀 Atualmente, estou aprofundando meus conhecimentos em **QA Automation com Playwright, API Testing e CI/CD**, com foco em evoluir para **QA Automation Engineer**.
-
-Também atuo como voluntária no **Movimento Web para Todos**, contribuindo com temas relacionados à **acessibilidade digital e WCAG**.
-
-<p align="left">
-    <a href="https://linkedin.com/in/lucianavaleriana">
-        <img 
-            alt="LinkedIn" 
-            title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Luciana%20Valeriana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/luciana892">
-        <img 
-            alt="GitHub" 
-            title="Me siga no GitHub" 
-            src="https://img.shields.io/badge/GitHub-luciana892-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-    <a href="mailto:lucianavaleriana45@gmail.com">
-        <img 
-            alt="E-mail" 
-            title="Entre em contato comigo" 
-            src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
-### 🧪 Testes & Quality Assurance
-
-<img align="left" alt="Postman" title="Postman" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-
-<img align="left" alt="Playwright" title="Playwright" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
-
-<img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<br/>
-<br/>
-
-**Testes:**
-`Funcional` `Exploratório` `Regressão` `Web` `Mobile` `Usabilidade` `Regressão Visual` `API Testing`
-
----
-
-### 🔌 API Testing
-
-**ServeRest — API Testing**
-
-Projeto de testes de API desenvolvido com **Postman**, aplicando diferentes abordagens de validação.
-
-* ✅ Testes positivos e negativos
-* 🔄 Testes de CRUD
-* 🔐 Validação de autenticação
-* 🔢 Validação de Status Codes
-* 📄 Validação de JSON
-* 📋 Validação de
-
-
+ 
+<div align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Bem-vindo+ao+meu+perfil!+%E2%8A%B9+" alt="Typing SVG"> </a> </div> # 👋 Olá, eu sou a Luciana Valeriana! ### 🧪 QA Analyst | API Testing | Web & Mobile Sou **Analista de QA** com experiência em **testes Web e Mobile**, **APIs REST**, **DevTools**, **SQL** e **Acessibilidade Digital**. Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regressão visual**, além de análise de requisitos, criação de cenários, execução de testes e reporte de defeitos. 🚀 Atualmente, estou aprofundando meus conhecimentos em **QA Automation com Playwright**, **API Testing** e **CI/CD**, com foco em evoluir para **QA Automation Engineer**. --- ## 🛠️ Principais conhecimentos | Área | Conhecimentos | | ---------------------- | ------------------------------------------------------------ | | 🧪 **Testes** | Funcional, Exploratório, Regressão, Usabilidade, Web, Mobile | | 🔌 **API** | REST, Postman, JSON, Status Code, CRUD | | 🔍 **DevTools** | Elements, Console, Network, HTTP, Cookies, Storage | | 🗄️ **Banco de Dados** | SQL | | 🤖 **Automação** | **Playwright**, POM, testes automatizados | | ♿ **Acessibilidade** | WCAG, Axe DevTools, Lighthouse, WAVE | | 🐙 **Versionamento** | Git, GitHub | | ⚙️ **CI/CD** | GitHub Actions | | 📋 **Gestão** | Jira, Azure DevOps, Zephyr | | 🔄 **Metodologias** | Scrum, Kanban | --- # 🚀 Projetos em Destaque ## 🔌 ServeRest — API Testing **Projeto de testes de API utilizando Postman** ### O que foi desenvolvido * ✅ Testes positivos e negativos * 🔄 Testes de **CRUD** * 🔐 Validação de autenticação * 🔢 Validação de **Status Code** * 📄 Validação de **JSON** * 📋 Validação de regras de negócio * 🧪 Scripts de testes em **JavaScript** * 🔗 Uso de variáveis para reutilização dos dados * 👤 Testes de Usuários * 📦 Testes de Produtos * 🛒 Testes de Carrinho **Stack:** Postman REST API JavaScript JSON HTTP 🔗 **[Ver projeto](#)** --- ## 🤖 Automação Web — Playwright Projeto de estudos voltado à **automação de testes Web** utilizando Playwright. ### Principais práticas * 🧪 Automação de cenários * 🧩 Page Object Model * ♻️ Reutilização de componentes * ✅ Assertions * 📋 Organização de suítes * 🐙 Git e GitHub * ⚙️ Integração com CI/CD **Stack:** Playwright JavaScript Git GitHub Actions --- ## 🔍 Validação Web com DevTools Utilização de **DevTools** como apoio aos testes funcionais e exploratórios. ### Principais validações * 🔎 Inspeção de elementos * 🌐 Network e requisições HTTP * 🐞 Console e investigação de erros * 🍪 Cookies * 💾 Local Storage / Session Storage * 📱 Responsividade * ⚡ Análise de carregamento * 🔗 Investigação de recursos da aplicação **Stack:** Chrome DevTools Edge DevTools HTTP Web Testing --- ## ♿ Acessibilidade Digital Experiência com testes de acessibilidade baseados em **WCAG**. ### Ferramentas Axe DevTools · Lighthouse · WAVE ### Validações * ⌨️ Navegação por teclado * 🎨 Contraste * 🧭 Navegação e usabilidade * 🌐 Estrutura da página * 📱 Diferentes dispositivos Também atuo como **voluntária no Movimento Web para Todos**. --- # 💼 Experiência ### BCR.CX — Quality Assurance- Junior **Dez/2025 – Atual** Testes Web e Mobile, testes funcionais, exploratórios, regressivos, usabilidade, regressão visual, chatbots, acessibilidade, análise de requisitos e acompanhamento de defeitos. ### Movimento Web para Todos — Voluntária **Nov/2025 – Atual** Atuação com **acessibilidade digital e WCAG**. # 🎓 Formação 🎓 **MBA — Engenharia de Qualidade e Testes de Software** — PUC Minas 🎓 **Bacharelado em Engenharia de Software** — em andamento 🎓 **Tecnólogo em Gestão da Qualidade** — Universidade Paulista --- # 📜 Certificações * **CTFL** * Bootcamp Quality Assurance * Fundamentos em Qualidade de Software * Qualidade de Software --- # 📚 Atualmente estudando
+text
+QA Automation
+│
+├── Playwright
+├── API Testing
+├── Postman
+├── SQL
+├── Git & GitHub
+├── GitHub Actions
+└── CI/CD
+--- # 🎯 Meu objetivo Evoluir como **QA Automation Engineer**, unindo minha experiência em **testes manuais, API Testing, DevTools, SQL e acessibilidade** com conhecimentos cada vez mais sólidos em **automação de testes e CI/CD**. --- # 📫 Conecte-se comigo [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luciana%20Valeriana-0A66C2?logo=linkedin)](https://linkedin.com/in/lucianavaleriana) [![GitHub](https://img.shields.io/badge/GitHub-luciana892-181717?logo=github)](https://github.com/luciana892) 📧 **[lucianavaleriana45@gmail.com](mailto:lucianavaleriana45@gmail.com)** --- ⭐ **Obrigada pela visita! Explore meus projetos e acompanhe minha evolução em QA e Automação de Testes.**
