@@ -1,167 +1,186 @@
 <div align="center">
- 
-# 👩🏻‍💻 Luciana Valeriana
+
+ # 👩🏻‍💻 Luciana Valeriana
 
 **`QA Analyst | API Testing | Web & Mobile | QA Automation`**
 
-Olá! Sou **Luciana Valeriana**, Analista de QA com experiência em **testes Web e Mobile**, **APIs REST**, **DevTools**, **SQL** e **Acessibilidade Digital**.
+Olá! Eu sou **Luciana Valeriana**, Analista de QA apaixonada por **qualidade de software, testes e melhoria contínua**.
 
-Atuo com **testes funcionais, exploratórios, regressivos, usabilidade e regressão visual**, além de análise de requisitos, criação de cenários, execução de testes e reporte de defeitos.
+Atuo com **testes Web e Mobile, APIs REST, DevTools, SQL e Acessibilidade Digital**, buscando garantir não apenas que uma funcionalidade funcione, mas que ela entregue uma boa experiência para quem utiliza o produto.
 
-🚀 Atualmente, estou aprofundando meus conhecimentos em **QA Automation com Playwright**, **API Testing** e **CI/CD**, com foco em evoluir para **QA Automation Engineer**.
+Tenho experiência com:
 
----
-
-## 🧪 Principais conhecimentos
-
-| Área                   | Conhecimentos                                                |
-| ---------------------- | ------------------------------------------------------------ |
-| 🧪 **Testes**          | Funcional, Exploratório, Regressão, Usabilidade, Web, Mobile |
-| 🔌 **API**             | REST, Postman, JSON, Status Code, CRUD                       |
-| 🔍 **DevTools**        | Elements, Console, Network, HTTP, Cookies, Storage           |
-| 🗄️ **Banco de Dados** | SQL                                                          |
-| 🤖 **Automação**       | Playwright, POM, testes automatizados                        |
-| ♿ **Acessibilidade**   | WCAG, Axe DevTools, Lighthouse, WAVE                         |
-| 🐙 **Versionamento**   | Git, GitHub                                                  |
-| ⚙️ **CI/CD**           | GitHub Actions                                               |
-| 📋 **Gestão**          | Jira, Azure DevOps, Zephyr                                   |
-| 🔄 **Metodologias**    | Scrum, Kanban                                                |
-
----
-
-# 🚀 Projetos em Destaque
-
-## 🔌 ServeRest — API Testing
-
-**Projeto de testes de API utilizando Postman.**
-
-### O que foi desenvolvido
-
-* ✅ Testes positivos e negativos
-* 🔄 Testes de **CRUD**
-* 🔐 Validação de autenticação
-* 🔢 Validação de **Status Code**
-* 📄 Validação de **JSON**
-* 📋 Validação de regras de negócio
-* 🧪 Scripts de testes em **JavaScript**
-* 🔗 Uso de variáveis para reutilização dos dados
-* 👤 Testes de Usuários
-* 📦 Testes de Produtos
-* 🛒 Testes de Carrinho
-
-**Stack:**
-`Postman` `REST API` `JavaScript` `JSON` `HTTP`
-
-🔗 **[Ver projeto](#)**
-
----
-
-## 🤖 Automação Web — Playwright
-
-Projeto de estudos voltado à **automação de testes Web** utilizando Playwright.
-
-### Principais práticas
-
-* 🧪 Automação de cenários
-* 🧩 Page Object Model
-* ♻️ Reutilização de componentes
-* ✅ Assertions
-* 📋 Organização de suítes
+* 🧪 Testes Funcionais, Exploratórios, Regressão, Usabilidade e Regressão Visual
+* 🔌 Testes de APIs REST
+* 📮 Postman e Newman
+* 🔍 Chrome DevTools
+* 🗄️ SQL
+* ♿ Acessibilidade Digital e WCAG
 * 🐙 Git e GitHub
-* ⚙️ Integração com CI/CD
+* ⚙️ GitHub Actions e CI/CD
+* 🤖 Playwright e Automação de Testes
 
-**Stack:**
-`Playwright` `JavaScript` `Git` `GitHub Actions`
-
----
-
-## 🔍 Validação Web com DevTools
-
-Utilização de **DevTools** como apoio aos testes funcionais e exploratórios.
-
-### Principais validações
-
-* 🔎 Inspeção de elementos
-* 🌐 Network e requisições HTTP
-* 🐞 Console e investigação de erros
-* 🍪 Cookies
-* 💾 Local Storage / Session Storage
-* 📱 Responsividade
-* ⚡ Análise de carregamento
-* 🔗 Investigação de recursos da aplicação
-
-**Stack:**
-`Chrome DevTools` `Edge DevTools` `HTTP` `Web Testing`
+🚀 Atualmente estou aprofundando meus conhecimentos em **QA Automation, API Testing, Playwright e CI/CD**, com o objetivo de evoluir para **QA Automation Engineer**.
 
 ---
 
-## ♿ Acessibilidade Digital
+# ⭐ Projetos em Destaque
 
-Experiência com testes de acessibilidade baseados em **WCAG**.
+## 🔥 API Testing & Performance — Petstore
 
-### Ferramentas
+Projeto focado em **testes de API REST**, utilizando Postman e Newman, explorando desde a execução dos testes até a geração de relatórios.
 
-`Axe DevTools` · `Lighthouse` · `WAVE`
+### 🔎 O que você encontrará
 
-### Validações
+* Testes de API REST
+* Execução manual e automatizada
+* Collections no Postman
+* Newman
+* Node.js
+* Validações automatizadas
+* Execução via linha de comando
+* Geração de relatório HTML
+* Estrutura preparada para evolução em CI/CD
+* Testes voltados também para análise de performance
 
-* ⌨️ Navegação por teclado
-* 🎨 Contraste
-* 🧭 Navegação e usabilidade
-* 🌐 Estrutura da página
-* 📱 Diferentes dispositivos
+### 🛠️ Tecnologias
 
-Também atuo como **voluntária no Movimento Web para Todos**.
+`Postman` `Newman` `Node.js` `REST API` `JSON` `HTTP` `JavaScript`
+
+👉 **[Acessar projeto Petstore API / Performance](https://github.com/luciana892/petstore_API-performance)**
+
+---
+
+## 🥇 ServeRest API — Testes de API REST
+
+Projeto de **teste de API REST do manual à automação**, utilizando Postman e Newman.
+
+### 🔎 O que foi desenvolvido
+
+* Testes de API REST
+* Collections e Environment
+* Execução manual pelo Postman
+* Execução automatizada com Newman
+* Validações das respostas da API
+* Execução via linha de comando
+* Geração de relatórios HTML
+* Estrutura orientada à evolução para CI/CD
+
+### 🛠️ Tecnologias
+
+`Postman` `Newman` `Node.js` `REST API` `JSON` `HTTP`
+
+👉 **[Acessar projeto ServeRest API](https://github.com/luciana892/serveRest-API)**
+
+---
+
+# 🧪 Minha atuação em QA
+
+### Testes
+
+* Testes Funcionais
+* Testes Exploratórios
+* Testes de Regressão
+* Testes de Usabilidade
+* Testes de Regressão Visual
+* Testes Web
+* Testes Mobile
+
+### API Testing
+
+* REST
+* Postman
+* Newman
+* JSON
+* HTTP / Status Codes
+* CRUD
+* Autenticação
+* Validações de resposta
+* Scripts e variáveis
+
+### DevTools
+
+* Elements
+* Console
+* Network
+* HTTP
+* Cookies
+* Local Storage
+* Session Storage
+* Responsividade
+* Análise de carregamento e recursos
+
+### Automação
+
+* Playwright
+* Page Object Model — POM
+* Assertions
+* Test Suites
+* Reutilização de componentes
+* Git / GitHub
+* CI/CD
+
+### Acessibilidade
+
+* WCAG
+* Axe DevTools
+* Lighthouse
+* WAVE
+* Navegação por teclado
+* Contraste
+* Estrutura semântica
+* Usabilidade e acessibilidade
 
 ---
 
 # 💼 Experiência
 
-### BCR.CX — Quality Assurance | Junior
+### 🏢 BCR.CX
 
-**Dez/2025 – Atual**
+**Quality Assurance — Junior**
+`Dez/2025 — Atual`
 
-Atuação com:
+Atuação com qualidade de software em aplicações **Web e Mobile**, realizando:
 
-* Testes Web e Mobile
 * Testes funcionais
 * Testes exploratórios
-* Testes regressivos
+* Testes de regressão
 * Testes de usabilidade
-* Regressão visual
-* Chatbots
-* Acessibilidade
+* Testes de regressão visual
+* Testes em chatbots
 * Análise de requisitos
-* Criação e execução de cenários de teste
-* Acompanhamento de defeitos
+* Criação e execução de cenários
+* Identificação e reporte de defeitos
+* Validações de acessibilidade
 
-### Movimento Web para Todos — Voluntária
+### ♿ Movimento Web para Todos
 
-**Nov/2025 – Atual**
+**Voluntária**
+`Nov/2025 — Atual`
 
-Atuação com **acessibilidade digital e WCAG**.
+Atuação voluntária relacionada à **Acessibilidade Digital**, com foco em boas práticas e **WCAG**.
 
 ---
 
 # 🎓 Formação
 
-🎓 **MBA — Engenharia de Qualidade e Testes de Software**
+🎓 **MBA em Engenharia de Qualidade e Testes de Software**
 PUC Minas
 
 🎓 **Bacharelado em Engenharia de Software**
 Em andamento
 
 🎓 **Tecnólogo em Gestão da Qualidade**
-Universidade Paulista
+Universidade Paulista — UNIP
 
 ---
 
 # 📜 Certificações
 
-* 🏆 **CTFL**
-* 🧪 Bootcamp Quality Assurance
-* 📚 Fundamentos em Qualidade de Software
-* 📚 Qualidade de Software
+* 🏅 ISTQB CTFL
+* 🏅 QA Bootcamp
+* 🏅 Fundamentos em Qualidade de Software
+* 🏅 Qualidade de Software
 
 ---
 
@@ -170,65 +189,78 @@ Universidade Paulista
 ```text
 QA Automation
 │
-├── Playwright
-├── API Testing
-├── Postman
-├── SQL
-├── Git & GitHub
-├── GitHub Actions
-└── CI/CD
+├── 🤖 Playwright
+├── 🔌 API Testing
+├── 📮 Postman
+├── 🗄️ SQL
+├── 🐙 Git & GitHub
+├── ⚙️ GitHub Actions
+└── 🚀 CI/CD
 ```
 
 ---
 
 # 🎯 Meu objetivo
 
-Evoluir como **QA Automation Engineer**, unindo minha experiência em **testes manuais, API Testing, DevTools, SQL e acessibilidade** com conhecimentos cada vez mais sólidos em **automação de testes e CI/CD**.
+Meu objetivo profissional é evoluir para **QA Automation Engineer**, unindo minha experiência em testes manuais com conhecimentos cada vez mais sólidos em:
+
+**API Testing + Automação + DevTools + SQL + CI/CD + Qualidade**
+
+Acredito que automação não substitui uma boa estratégia de testes — ela potencializa o trabalho de QA e permite que o time concentre esforços em riscos, investigação e qualidade do produto. 🚀
 
 ---
 
-# 📊 GitHub Stats
+# 🛠️ Tecnologias e ferramentas
 
 <p align="left">
-  <img
-    alt="GitHub Stats"
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=luciana892&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
 
-<img
- alt="Tecnologias mais utilizadas"
- height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana892&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8"
-/>
+<img src="https://img.shields.io/badge/QA-Testing-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Newman-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 </p>
 
 ---
 
-# 📫 Conecte-se comigo
+# 📊 GitHub
 
 <p align="left">
 
-  <a href="https://linkedin.com/in/lucianavaleriana">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Luciana%20Valeriana-0A66C2?logo=linkedin&style=for-the-badge"
-      alt="LinkedIn"
-    />
-  </a>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=luciana892&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-  <a href="https://github.com/luciana892">
-    <img
-      src="https://img.shields.io/badge/GitHub-luciana892-181717?logo=github&style=for-the-badge"
-      alt="GitHub"
-    />
-  </a>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciana892&layout=compact&theme=tokyonight&langs_count=8"/>
 
 </p>
 
-📧 **[lucianavaleriana45@gmail.com](mailto:lucianavaleriana45@gmail.com)**
+---
+
+# 📫 Vamos nos conectar?
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/lucianavaleriana">
+<img src="https://img.shields.io/badge/LinkedIn-Luciana%20Valeriana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/luciana892">
+<img src="https://img.shields.io/badge/GitHub-luciana892-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:lucianavaleriana45@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ **Obrigada pela visita! Explore meus projetos e acompanhe minha evolução em QA e Automação de Testes.**
+⭐ **Obrigada pela visita!**
+
+Se você chegou até aqui, fique à vontade para explorar meus projetos e acompanhar minha evolução na jornada de **QA → QA Automation Engineer**. 🚀
+
 
