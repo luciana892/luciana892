@@ -1,10 +1,5 @@
 # 👩🏻‍💻 Luciana Valeriana
 
-<div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&width=600&lines=QA+Analyst+%7C+API+Testing+%7C+Web+%26+Mobile;Testes+%7C+Automação+%7C+Qualidade+de+Software;Em+evolução+para+QA+Automation+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
-
-
 **QA Analyst | API Testing | Web & Mobile | Automation**
 
 Analista de QA com experiência em **testes Web e Mobile, APIs REST, DevTools, SQL e Acessibilidade Digital**.
